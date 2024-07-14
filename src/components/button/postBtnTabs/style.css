@@ -1,0 +1,17 @@
+.button_pop{
+    display: block;
+    position: absolute;
+    margin-top: 3.5rem;
+    background-color: rgba(119, 121, 239, 0.367);
+    color: rgb(2, 2, 2);
+    font-size: 9px;
+    border: 1px solid rgba(211, 204, 204, 0.26);
+    border-radius: 4px;
+    padding: 1px 5px;
+    
+    text-align: center;
+}
+.button_pop_block{
+    display: none;
+    background: hsla(0, 0%, 100%, 0.548);
+}

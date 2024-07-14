@@ -1,0 +1,8 @@
+export {default as LogIn } from "./signIn_Up/LogIn"
+export {default as Home} from "./home/Home"
+export {default as SignUp } from "./signIn_Up/SignUp"
+export {default as Sidebar} from "./home/Sidebar"
+export { PostPage} from "./post/PostPage"
+export {default as Explore } from "./explore/Explore"
+export {default as Notification} from "./notification/Notification"
+export {default as Profile} from "./profile/Profile"
